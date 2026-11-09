@@ -1,0 +1,10 @@
+[package]
+name = "nitro_rust_core"
+version = "2.0.0"
+edition = "2021"
+
+[lib]
+name = "nitro_rust_core"
+crate-type = ["cdylib"]
+
+[dependencies]
